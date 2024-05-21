@@ -1,0 +1,11 @@
+.custom-table {
+  border-collapse: collapse;
+  width: 98%;
+  margin: 0 auto;
+}
+
+.custom-table th, .custom-table td {
+  border: 1px solid #000;
+  padding: 8px;
+  text-align: center;
+}
